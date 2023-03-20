@@ -45,7 +45,7 @@ MongoDB as our database to keep track of scores and make a universal leaderboard
 
 # Challenges we ran into
 
-Our team didn't have much experience with any of the stack before, so it was a big learning
+Our team didn't have much experience with combined python and ml stack before, so it was a big learning
 curve. Two of us didn't have a lot of experience in Python. We ran into many dependencies
 issues, and package import errors, which took a lot of time to resolve. When we initially were
 trying to set up MongoDB, we also kept timing out for weird reasons. But the biggest challenge
