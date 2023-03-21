@@ -82,16 +82,25 @@ interesting niche market to help gamify muscle rehabilition, especially for chil
 
 ---
 
-# Snap-Shot
+# Snap-Shot of AI Mouse and Motion Game
 
 ## Hand Gesture detected
-![hand](./assets/git%20readme/Picture1.png)
+![hand](./assets/git%20readme/hand%20gesture.jpeg)
 
 ## Left Click
-![left](./assets/git%20readme/Picture2.png)
+![left](./assets/git%20readme/left%20click.jpeg)
 
-## Recent View
-![recent](./assets/git%20readme/Picture3.png)
+## Right Click
+![left](./assets/git%20readme/right%20click.jpeg)
+
+## Double Click
+![left](./assets/git%20readme/double%20click.jpeg)
+
+## Scroll-up
+![recent](./assets/git%20readme/scroll-up.jpeg)
+
+## Scroll-down
+![recent](./assets/git%20readme/scroll-down.jpeg)
 
 ### and other features are there in the video
 
