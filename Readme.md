@@ -1,4 +1,4 @@
-# "Motion is All You Need".Our Product uses state-of-the-art motion capture technology to enable users to play games in radically new ways using machine learning.
+# "Motion is All You Need". Our Product uses state-of-the-art motion capture technology to enable users to play games in radically new ways using machine learning.
 
 # Inspiration
  Gaming is often associated with sitting for long periods of time in front of a computer screen,
@@ -79,3 +79,21 @@ interesting niche market to help gamify muscle rehabilition, especially for chil
 - PY-SIMPLEGUI
 - PYTHON
 - TKINTER
+
+---
+
+# Snap-Shot
+
+## Hand Gesture detected
+![hand](./assets/git%20readme/Picture1.png)
+
+## Left Click
+![left](./assets/git%20readme/Picture2.png)
+
+## Recent View
+![recent](./assets/git%20readme/Picture3.png)
+
+### and other features are there in the video
+
+---
+# Demo video [Link](https://www.youtube.com/watch?v=USimM6X-aCE)
