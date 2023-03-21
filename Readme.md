@@ -1,4 +1,4 @@
-# "Motion is All You Need". Our Product uses state-of-the-art motion capture technology to enable users to play games in radically new ways using machine learning.
+# AI Virtual Mouse with Motion Games "Motion is All You Need". Our Product uses state-of-the-art motion capture technology to enable users to play games in radically new ways using machine learning.
 
 # Inspiration
  Gaming is often associated with sitting for long periods of time in front of a computer screen,
