@@ -44,7 +44,19 @@ We would like to implement a better GUI for our application and release it for a
 - PYTHON
 - TKINTER
 
----
+# Libraries you need to install if you want to run our product 
+- cv2
+- mediapipe
+- numpy
+- pyautogui
+- autopy
+- customtkinter
+- os
+- tkinter
+- PIL
+- random
+- json
+- bcrypt
 
 # Snap-Shot of AI Mouse and Motion Game
 
