@@ -105,7 +105,4 @@ interesting niche market to help gamify muscle rehabilition, especially for chil
 ### and other features are there in the video
 
 ---
-
-# Demo video 
-
-[![Watch the video](https://www.scnip.com/medias/images/posts/ai.png)](https://www.youtube.com/watch?v=USimM6X-aCE)
+# Demo video [Link](https://www.youtube.com/watch?v=USimM6X-aCE)
